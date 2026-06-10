@@ -1,6 +1,6 @@
 # InternNexus
 
-InternNexus is a full-stack internship platform that connects students with companies for internship discovery and application management.
+InternNexus is a internship platform that connects students with companies for internship discovery and application management.
 
 🔗 Live: https://intern-nexus-six.vercel.app
 
