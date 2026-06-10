@@ -87,6 +87,6 @@ In a real-world system, this would include:
 
 ## Status
 
-This is a **portfolio project** demonstrating full-stack development and real-world application logic.
+This is a **portfolio project** demonstrating development and real-world application logic.
 
 ---
